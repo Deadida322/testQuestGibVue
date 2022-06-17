@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{531:function(e,n,t){"use strict";t.r(n);var r={name:"IndexPage"},c=t(72),l=t(109),o=t.n(l),w=t(497),component=Object(c.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("v-row",{attrs:{justify:"center",align:"center"}})}),[],!1,null,null,null);n.default=component.exports;o()(component,{VRow:w.a})}}]);
